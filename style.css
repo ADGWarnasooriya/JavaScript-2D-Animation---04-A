@@ -11,3 +11,11 @@ body {
     scale: 0.6;
     margin-top: 265px;
 }
+
+.troll {
+    width: 420px;
+    height: 262.8px;
+    background-image: url(./troll.png);
+    position: absolute;
+    margin-top: -380px;
+}
