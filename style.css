@@ -20,4 +20,5 @@ body {
     position: absolute;
     margin-top: 360px;
     transform: scaleX(-1.4) scaleY(1.4);
+    margin-left: 1200px;
 }
