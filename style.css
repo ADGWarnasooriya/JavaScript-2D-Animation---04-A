@@ -6,7 +6,7 @@ body {
 
 .viking {
     width: 512.1px;
-    height: 512px;
+    height: 510px;
     background-image: url(./viking.png);
     scale: 0.7;
     margin-top: 260px;
